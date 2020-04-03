@@ -21,15 +21,15 @@
 
   3. PROTOTIPOS DE BAJA FIDELIDAD
 
-  ![](./baja-fidelidad-web.PNG)
+  ![](./baja-fidelidad-web.png)
 
-  ![](./baja-fidelidad-mobile.PNG)
+  ![](./baja-fidelidad-mobile.png)
 
   4. PROTOTIPOS DE ALTA FIDELIDAD
 
-  ![](./alta-fidelidad-web.JPG)
+  ![](./alta-fidelidad-web.jpg)
       
-  ![](./alta-fidelidad-mobile.JPG)
+  ![](./alta-fidelidad-mobile.jpg)
 
   5. HISTORIAS DE USUARIO 
   En el siguiente link => https://trello.com/b/tHgaOp0X/data-lovers podrán encontrar el número de historias en total que se plantearon, sus cambios y los pasos que se ejecutaron para que **POKEPEDIA** sea una realidad.
