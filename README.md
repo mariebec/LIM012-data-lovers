@@ -55,7 +55,7 @@ y de equipo.
 - [x] Entender y reconocer por qué es importante el HTML semántico.
 - [x] Identificar y entender tipos de selectores en CSS.
 - [x] Entender como funciona `flexbox` en CSS.
-- [x] Construir tu aplicación respetando el diseño planeado (maquetación).
+- [ ] Construir tu aplicación respetando el diseño planeado (maquetación).
 
 ### DOM
 
