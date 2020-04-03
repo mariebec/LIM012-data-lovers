@@ -5,10 +5,12 @@
 
 ### IMAGEN FINAL DEL PROYECTO:
 
-* Para Web 
+* Para Web
+
 ![](./1final-web.PNG)
 
 * Para Mobile
+
 ![](./2final-mobile.PNG)
 
 #### INVESTIGACIÓN UX:
@@ -17,12 +19,16 @@
   2. ¿CÓMO **POKEPEDIA** SOLUCIONA LOS PROBLEMAS/NECESIDADES DE DICHOS USUARIOS?
     * **POKEPEDIA** es una página web que desde su bienvenida ya muestra la totalidad de pokemones que existen en las dos primeras regiones (Kanto y Johto), enumerados en orden ascendente. De esta forma permite al usuario identificar qué pokemones aún no han capturado. Además, al ser tantos pokemones, conforme explore más pokemones haciendo scroll, siempre visualizará el botón ascender para ser más amena su navegación por su interfaz. También identificará las opciones de "Search", para que ingresar directamente el nombre del pokémon para evitar el scroll; "Sort", para que pueda ordenarlos alfabeticamente o viceversa cuando no recuerda todo el nombre pero sí con qué letra inicia y el "Filter by type", para que acceda solo a aquellos pokémones de un mismo tipo. Y para finalizar, en cada card pokémon podrá encontrar las opciones "Features", para acceder a las características del pokémon elegido, y "attack", donde accederá a los datos stadísticos de cada pokémon para que su desenvolvimiento durante las batallas en los gimnasios tengan un mayor plan estratégico.
 
-  3. PROTOTIPOS DE BAJA FIDELIDAD 
+  3. PROTOTIPOS DE BAJA FIDELIDAD
+
     ![](./baja-fidelidad-web.png)    
     ![](./baja-fidelidad-mobile.png)
+
   4. PROTOTIPOS DE ALTA FIDELIDAD
+
     ![](./alta-fidelidad-web.jpg)    
-    ![](./alta-fidelidad-mobile.jpg)      
+    ![](./alta-fidelidad-mobile.jpg)
+
   5. HISTORIAS DE USUARIO 
   En el siguiente link => https://trello.com/b/tHgaOp0X/data-lovers podrán encontrar el número de historias en total que se plantearon, sus cambios y los pasos que se ejecutaron para que **POKEPEDIA** sea una realidad.
 ## 3. Objetivos de aprendizaje
