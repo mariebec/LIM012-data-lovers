@@ -21,13 +21,15 @@
 
   3. PROTOTIPOS DE BAJA FIDELIDAD
 
-    ![](./baja-fidelidad-web.png)    
-    ![](./baja-fidelidad-mobile.png)
+  ![](./baja-fidelidad-web.PNG)
+
+  ![](./baja-fidelidad-mobile.PNG)
 
   4. PROTOTIPOS DE ALTA FIDELIDAD
 
-    ![](./alta-fidelidad-web.jpg)    
-    ![](./alta-fidelidad-mobile.jpg)
+  ![](./alta-fidelidad-web.JPG)
+      
+  ![](./alta-fidelidad-mobile.JPG)
 
   5. HISTORIAS DE USUARIO 
   En el siguiente link => https://trello.com/b/tHgaOp0X/data-lovers podrán encontrar el número de historias en total que se plantearon, sus cambios y los pasos que se ejecutaron para que **POKEPEDIA** sea una realidad.
@@ -97,7 +99,7 @@ y de equipo.
 * [x] Incluye historias de usuario en `README.md`.
 * [x] Incluye _sketch_ de la solución (prototipo de baja fidelidad) en
   `README.md`.
-* [ ] Incluye _Diseño de la Interfaz de Usuario_ (prototipo de alta fidelidad)
+* [x] Incluye _Diseño de la Interfaz de Usuario_ (prototipo de alta fidelidad)
   en `README.md`.
 * [ ] Incluye link a Zeplin en `README.md`.
 * [ ] Incluye el listado de problemas que detectaste a través de tests de
