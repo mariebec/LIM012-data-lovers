@@ -10,15 +10,16 @@ import data from './data/pokemon/pokemon.js';
 
 const sectionContent = document.querySelector('.content');
 
+const getTypes = (arr) => {
+  let types = '';
+  arr.forEach((eachType) => {
+    types += `${eachType} `;
+  });
+  return types;
+};
+
 // MODAL FEATURES
 const featuresCard = (pokemon) => {
-  const getTypes = (arr) => {
-    let types = '';
-    arr.forEach((resist) => {
-      types += `${resist} `;
-    });
-    return types;
-  };
   // Card
   const sectionModal = document.createElement('section');
   sectionModal.classList.add('modal-container', 'modal-close');
@@ -141,13 +142,6 @@ const featuresCard = (pokemon) => {
 
 // MODAL ATTACK
 const attackCard = (pokemon) => {
-  const getTypes = (arr) => {
-    let types = '';
-    arr.forEach((resist) => {
-      types += `${resist} `;
-    });
-    return types;
-  };
   const sectionModal = document.createElement('section');
   sectionModal.classList.add('modal-container', 'modal-close');
   sectionModal.classList.toggle('modal-close');
